@@ -1,0 +1,19 @@
+folders
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+*.a
+*.o
+/_test
+/vendor/
+/Godeps/
+/.glide/
+/.idea/
+/.vscode/
+/.DS_Store
